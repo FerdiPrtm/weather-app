@@ -119,7 +119,3 @@ Aplikasi ini menggunakan **Open-Meteo API** yang bersifat gratis dan tidak memer
 |---|---|
 | Geocoding API | Mengubah nama kota menjadi koordinat latitude/longitude |
 | Forecast API | Mengambil data cuaca saat ini berdasarkan koordinat |
-
-## License
-
-MIT License
