@@ -2,6 +2,10 @@
 
 Aplikasi web dashboard cuaca real-time yang menampilkan informasi cuaca saat ini dari kota mana saja di dunia. Dibangun dengan Laravel 12 dan Tailwind CSS 4, menggunakan desain glassmorphism modern dengan dukungan dark mode.
 
+<p align="center">
+  <img src="screenshots/mobile-iPad_Air.png" alt="Weather Dashboard Screenshot" width="600">
+</p>
+
 ## Fitur
 
 - **Pencarian Cuaca** - Cari cuaca saat ini untuk kota mana saja di seluruh dunia
